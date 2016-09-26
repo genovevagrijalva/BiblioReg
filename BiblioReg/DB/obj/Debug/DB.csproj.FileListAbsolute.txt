@@ -1,0 +1,5 @@
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\DB\bin\Debug\DB.dll
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\DB\bin\Debug\DB.pdb
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\DB\obj\Debug\DB.dll
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\DB\obj\Debug\DB.pdb

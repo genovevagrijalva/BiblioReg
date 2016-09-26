@@ -1,0 +1,7 @@
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BIBLIOREG_Lib\bin\Debug\BIBLIOREG_Lib.dll
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BIBLIOREG_Lib\bin\Debug\BIBLIOREG_Lib.pdb
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BIBLIOREG_Lib\bin\Debug\DB.dll
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BIBLIOREG_Lib\bin\Debug\DB.pdb
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BIBLIOREG_Lib\obj\Debug\BIBLIOREG_Lib.csprojResolveAssemblyReference.cache
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BIBLIOREG_Lib\obj\Debug\BIBLIOREG_Lib.dll
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BIBLIOREG_Lib\obj\Debug\BIBLIOREG_Lib.pdb

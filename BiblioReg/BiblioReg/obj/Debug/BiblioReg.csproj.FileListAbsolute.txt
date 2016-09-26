@@ -1,0 +1,17 @@
+c:\users\geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\bin\Debug\BiblioReg.exe.config
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\bin\Debug\BiblioReg.exe
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\bin\Debug\BiblioReg.pdb
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\bin\Debug\BIBLIOREG_Lib.dll
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\bin\Debug\DB.dll
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\bin\Debug\BIBLIOREG_Lib.pdb
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\bin\Debug\DB.pdb
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\obj\Debug\BiblioReg.csprojResolveAssemblyReference.cache
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\obj\Debug\BiblioReg.frmAcerca.resources
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\obj\Debug\BiblioReg.frmLibro.resources
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\obj\Debug\BiblioReg.frmLogin.resources
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\obj\Debug\BiblioReg.frmManual.resources
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\obj\Debug\BiblioReg.frmPrincipal.resources
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\obj\Debug\BiblioReg.Properties.Resources.resources
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\obj\Debug\BiblioReg.csproj.GenerateResource.Cache
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\obj\Debug\BiblioReg.exe
+C:\Users\Geno\documents\visual studio 2013\Projects\BiblioReg\BiblioReg\obj\Debug\BiblioReg.pdb
